@@ -1,0 +1,26 @@
+{
+  "name": "teamprofgen",
+  "version": "1.0.0",
+  "description": "generates team members according to their positions",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sophack/teamProfGen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sophack/teamProfGen/issues"
+  },
+  "homepage": "https://github.com/Sophack/teamProfGen#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
